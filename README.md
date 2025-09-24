@@ -1,1 +1,3 @@
 # JE-IRT-anoynamous
+This is the anoynamous Github repo for paper *A GEOMETRIC LENS ON LLM ABILITIES THROUGH
+JOINT EMBEDDING ITEM RESPONSE THEORY*
