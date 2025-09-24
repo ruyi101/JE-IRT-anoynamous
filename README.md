@@ -1,3 +1,4 @@
-# JE-IRT-anoynamous
-This is the anoynamous Github repo for paper *A GEOMETRIC LENS ON LLM ABILITIES THROUGH
-JOINT EMBEDDING ITEM RESPONSE THEORY*
+# JE-IRT (Anonymous)
+
+This is the anonymous GitHub repository for the paper:  
+*A Geometric Lens on LLM Abilities through Joint Embedding Item Response Theory (JE-IRT)*.
