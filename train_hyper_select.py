@@ -67,10 +67,10 @@ def main():
 
     if args.encoder == "sentence-transformer":
         encoder_embedding_dim = 768
-        embedding_mapper = json.load(open("../embeddings/sentence-transformer.json", "r"))
+        embedding_mapper = json.load(open("/embeddings/sentence-transformer.json", "r"))
     elif args.encoder == "modern-bert":
         encoder_embedding_dim = 1024
-        embedding_mapper = json.load(open("../embeddings/modern-bert.json", "r"))
+        embedding_mapper = json.load(open("/embeddings/modern-bert.json", "r"))
     else:
         raise ValueError(f"Unsupported encoder: {args.encoder}")
 
